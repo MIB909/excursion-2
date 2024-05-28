@@ -16,9 +16,9 @@ body{
     color: #ffff;
 }
 
-header--sub-header {
+.header--sub-header {
     font-size: 21px;
-    color: grey;
+    color: rgb(134, 132, 132);
 }
 /*Links*/
 link--cta {
